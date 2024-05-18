@@ -1,0 +1,29 @@
+print(1)
+print(2)
+print(3)
+
+name = 'Ritika'
+for i in name:
+print(i, end= ", ")
+print(i)
+if(i =="b"):
+print("This is something special!")
+
+colours = ["Red", "Green", "Blue", "Yellow"]
+for x in colours:
+print(x)
+print(Colours)
+for i in colours:
+print(i)
+
+for k in range(5):
+print(k + 1)
+
+for k in range(1, 9):
+print(k)
+
+for k in range(1, 20001):
+print(k)
+
+for k in range(1, 12, 2):
+print(k)
