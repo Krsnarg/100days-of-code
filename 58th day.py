@@ -15,7 +15,7 @@ def info(self):
 
   # Class Person:
 
-  def __init__(self):
+ # def __init__(self):
     print("Hey I am a Person")
     # self.name = name
 
@@ -24,11 +24,12 @@ def info(self):
         self.name = n
         self.occ = o
 
-        a = Person("Harry", "Developer")
-        b = Person("Divya", "HR")
-        c = Person(1,2,3)
-        a = info()
+ #       a = Person("Harry", "Developer")
+  #      b = Person("Divya", "HR")
+  #      c = Person(1,2,3)
+  #      a = info()
         b = info()
         # print(a.name)
         # a.name = "Divya"
+        
         
